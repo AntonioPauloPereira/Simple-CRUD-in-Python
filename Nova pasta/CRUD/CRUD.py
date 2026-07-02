@@ -4,6 +4,7 @@ nome2 = None
 idade = None
 idade2 = None
 
+
 def Menu():
     
     while True:
